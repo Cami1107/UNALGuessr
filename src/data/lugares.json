@@ -1,0 +1,692 @@
+[
+  {
+    "id": "303-bloque-b",
+    "nombre": "303  Bloque B",
+    "lat": 4.6367025,
+    "lng": -74.0812824
+  },
+  {
+    "id": "303c-escuela-de-cine-y-television",
+    "nombre": "303C - Escuela de Cine y Television",
+    "lat": 4.6372315,
+    "lng": -74.0814663
+  },
+  {
+    "id": "archivo-central-historico-500b",
+    "nombre": "Archivo Central Histórico (500B)",
+    "lat": 4.6355481,
+    "lng": -74.0885605
+  },
+  {
+    "id": "auditorio-leon-de-greiff",
+    "nombre": "Auditorio Leon de Greiff",
+    "lat": 4.6357451,
+    "lng": -74.0823147
+  },
+  {
+    "id": "auditorios-anfiteatros-y-microbiologia-503",
+    "nombre": "Auditorios, Anfiteatros y Microbiología (503)",
+    "lat": 4.6350474,
+    "lng": -74.0855803
+  },
+  {
+    "id": "aulas-de-ciencias-humanas",
+    "nombre": "Aulas de Ciencias Humanas",
+    "lat": 4.6339812,
+    "lng": -74.0846916
+  },
+  {
+    "id": "aulas-de-informatica-477",
+    "nombre": "Aulas de Informática (477)",
+    "lat": 4.6368752,
+    "lng": -74.0852969
+  },
+  {
+    "id": "aulas-de-ingenieria",
+    "nombre": "Aulas de Ingeniería",
+    "lat": 4.6384818,
+    "lng": -74.0838627
+  },
+  {
+    "id": "aulas-y-depocitos-unibiblos-561h",
+    "nombre": "Aulas y depócitos Unibiblos (561H)",
+    "lat": 4.6369098,
+    "lng": -74.0876416
+  },
+  {
+    "id": "aulas-y-laboratorio-de-histopatologia-e-inceminacion-artificial-502",
+    "nombre": "Aulas y Laboratorio de Histopatología e Inceminación Artificial (502)",
+    "lat": 4.6357238,
+    "lng": -74.0856855
+  },
+  {
+    "id": "bellas-artes",
+    "nombre": "Bellas Artes",
+    "lat": 4.6362813,
+    "lng": -74.0822148
+  },
+  {
+    "id": "biblioteca-central-gabriel-garcia-marquez",
+    "nombre": "Biblioteca Central - Gabriel García Márquez",
+    "lat": 4.6352789,
+    "lng": -74.0832676
+  },
+  {
+    "id": "biologia",
+    "nombre": "Biología",
+    "lat": 4.6410844,
+    "lng": -74.0817144
+  },
+  {
+    "id": "bioterio-de-investigacion-561f",
+    "nombre": "Bioterio de investigación (561F)",
+    "lat": 4.6370991,
+    "lng": -74.0878283
+  },
+  {
+    "id": "bioterio-y-establos-de-produccion-561c",
+    "nombre": "Bioterio y Establos de Producción (561C)",
+    "lat": 4.6375455,
+    "lng": -74.0879536
+  },
+  {
+    "id": "cade-ingenieria",
+    "nombre": "CADE Ingeniería",
+    "lat": 4.6380381,
+    "lng": -74.0814869
+  },
+  {
+    "id": "cafeteria-campus-213",
+    "nombre": "Cafetería Campus (213)",
+    "lat": 4.633792,
+    "lng": -74.0843887
+  },
+  {
+    "id": "cafeteria-de-medicina-474",
+    "nombre": "Cafeteria de Medicina (474)",
+    "lat": 4.6367957,
+    "lng": -74.0844788
+  },
+  {
+    "id": "cafeteria-odontologia-211",
+    "nombre": "Cafetería Odontología (211)",
+    "lat": 4.634384,
+    "lng": -74.0854588
+  },
+  {
+    "id": "capilla-251",
+    "nombre": "Capilla (251)",
+    "lat": 4.6328712,
+    "lng": -74.0814726
+  },
+  {
+    "id": "caseta-de-maquinas-500e",
+    "nombre": "Caseta de Máquinas (500E)",
+    "lat": 4.6366563,
+    "lng": -74.0879825
+  },
+  {
+    "id": "caseta-de-servicios-500g",
+    "nombre": "Caseta de Servicios (500G)",
+    "lat": 4.6364925,
+    "lng": -74.0881727
+  },
+  {
+    "id": "cemu-480",
+    "nombre": "CEMU (480)",
+    "lat": 4.63647,
+    "lng": -74.0851579
+  },
+  {
+    "id": "central-telefonica-614",
+    "nombre": "Central Telefónica (614)",
+    "lat": 4.6394823,
+    "lng": -74.0818133
+  },
+  {
+    "id": "centro-de-acopio-de-residuos-solidos-437",
+    "nombre": "Centro de Acopio de Residuos Sólidos (437)",
+    "lat": 4.6413338,
+    "lng": -74.0840314
+  },
+  {
+    "id": "centro-de-compostaje-500l",
+    "nombre": "Centro de Compostaje (500L)",
+    "lat": 4.636198,
+    "lng": -74.0898404
+  },
+  {
+    "id": "centro-de-computo-608",
+    "nombre": "Centro de Cómputo (608)",
+    "lat": 4.6374078,
+    "lng": -74.0800052
+  },
+  {
+    "id": "centro-polideportivo",
+    "nombre": "Centro Polideportivo",
+    "lat": 4.63463,
+    "lng": -74.0828003
+  },
+  {
+    "id": "ciencias",
+    "nombre": "Ciencias",
+    "lat": 4.6373057,
+    "lng": -74.085517
+  },
+  {
+    "id": "ciencias-economicas-ii-311",
+    "nombre": "Ciencias Económicas II (311)",
+    "lat": 4.6368715,
+    "lng": -74.0806808
+  },
+  {
+    "id": "cine-y-television-701",
+    "nombre": "Cine y Televisión (701)",
+    "lat": 4.6405272,
+    "lng": -74.0855721
+  },
+  {
+    "id": "cirugia-y-clinica-de-grandes-animales-501",
+    "nombre": "Cirugía y Clínica de Grandes Animales (501)",
+    "lat": 4.6361994,
+    "lng": -74.0858718
+  },
+  {
+    "id": "clinica-de-pequenos-animales",
+    "nombre": "Clínica de Pequeños Animales",
+    "lat": 4.6366677,
+    "lng": -74.0862025
+  },
+  {
+    "id": "comedor-central",
+    "nombre": "Comedor Central",
+    "lat": 4.6345142,
+    "lng": -74.0827372
+  },
+  {
+    "id": "comportamiento-animal-561d",
+    "nombre": "Comportamiento Animal (561D)",
+    "lat": 4.6373792,
+    "lng": -74.0880285
+  },
+  {
+    "id": "concha-acustica-761",
+    "nombre": "Concha Acústica (761)",
+    "lat": 4.6388447,
+    "lng": -74.087178
+  },
+  {
+    "id": "conservatorio-de-musica",
+    "nombre": "Conservatorio de Musica",
+    "lat": 4.6357816,
+    "lng": -74.0812862
+  },
+  {
+    "id": "construcciones-sindu",
+    "nombre": "Construcciones SINDU",
+    "lat": 4.6358289,
+    "lng": -74.0806023
+  },
+  {
+    "id": "contaduria-238",
+    "nombre": "Contaduría (238)",
+    "lat": 4.6326253,
+    "lng": -74.0831768
+  },
+  {
+    "id": "departamento-de-ciencias-de-produccion-animal-561",
+    "nombre": "Departamento de Ciencias de Producción Animal (561)",
+    "lat": 4.637696,
+    "lng": -74.0877308
+  },
+  {
+    "id": "departamento-de-lenguas-extranjeras-229",
+    "nombre": "Departamento de Lenguas Extranjeras (229)",
+    "lat": 4.6330593,
+    "lng": -74.0844444
+  },
+  {
+    "id": "departamento-de-lenguas-extranjeras-231",
+    "nombre": "Departamento de Lenguas Extranjeras (231)",
+    "lat": 4.6328439,
+    "lng": -74.0845099
+  },
+  {
+    "id": "derecho-y-ciencias-politicas",
+    "nombre": "Derecho y Ciencias Políticas",
+    "lat": 4.6354096,
+    "lng": -74.0839448
+  },
+  {
+    "id": "economia",
+    "nombre": "Economía",
+    "lat": 4.6373416,
+    "lng": -74.0808077
+  },
+  {
+    "id": "edificio-antonio-narino",
+    "nombre": "Edificio Antonio Nariño",
+    "lat": 4.6335964,
+    "lng": -74.0840211
+  },
+  {
+    "id": "edificio-de-ciencia-y-tecnologia",
+    "nombre": "Edificio de Ciencia y Tecnología",
+    "lat": 4.638058,
+    "lng": -74.0847474
+  },
+  {
+    "id": "edificio-francisco-de-paula-santander",
+    "nombre": "Edificio Francisco de Paula Santander",
+    "lat": 4.6333357,
+    "lng": -74.0831999
+  },
+  {
+    "id": "edificio-manuel-ancizar-224",
+    "nombre": "Edificio Manuel Ancizar (224)",
+    "lat": 4.6336207,
+    "lng": -74.0856444
+  },
+  {
+    "id": "edificio-rogelio-salmona-posgrados-en-ciencias-humanas-225",
+    "nombre": "Edificio Rogelio Salmona - Posgrados en Ciencias Humanas (225)",
+    "lat": 4.6340195,
+    "lng": -74.0865752
+  },
+  {
+    "id": "el-arbolito",
+    "nombre": "El Arbolito",
+    "lat": 4.6375606,
+    "lng": -74.0812088
+  },
+  {
+    "id": "facultad-de-agronomia",
+    "nombre": "Facultad de Agronomía",
+    "lat": 4.6359964,
+    "lng": -74.0872885
+  },
+  {
+    "id": "facultad-de-derecho-ciencias-politicas-y-sociales",
+    "nombre": "Facultad de Derecho, Ciencias Políticas y Sociales",
+    "lat": 4.6378363,
+    "lng": -74.080166
+  },
+  {
+    "id": "facultad-de-enfermeria-228",
+    "nombre": "Facultad de Enfermería (228)",
+    "lat": 4.6353141,
+    "lng": -74.0848312
+  },
+  {
+    "id": "farmacia",
+    "nombre": "Farmacia",
+    "lat": 4.6372078,
+    "lng": -74.0837732
+  },
+  {
+    "id": "farmacia-y-oficinas-510",
+    "nombre": "Farmacia y Oficinas (510)",
+    "lat": 4.6358232,
+    "lng": -74.0861993
+  },
+  {
+    "id": "filosofia-239",
+    "nombre": "Filosofía (239)",
+    "lat": 4.6323858,
+    "lng": -74.0832596
+  },
+  {
+    "id": "galpon-de-biologia-632",
+    "nombre": "Galpón de Biología (632)",
+    "lat": 4.6404333,
+    "lng": -74.0808004
+  },
+  {
+    "id": "gloria-amparo-galeano-garces-564",
+    "nombre": "Gloria Amparo Galeano Garcés (564)",
+    "lat": 4.6364672,
+    "lng": -74.0869448
+  },
+  {
+    "id": "hemeroteca-nacional",
+    "nombre": "Hemeroteca Nacional",
+    "lat": 4.6366391,
+    "lng": -74.0911138
+  },
+  {
+    "id": "horno-crematorio-561i",
+    "nombre": "Horno Crematorio (561I)",
+    "lat": 4.6371307,
+    "lng": -74.0884344
+  },
+  {
+    "id": "ingenieria",
+    "nombre": "Ingenieria",
+    "lat": 4.6372097,
+    "lng": -74.0829187
+  },
+  {
+    "id": "instituto-de-ciencias-naturales",
+    "nombre": "Instituto de Ciencias Naturales",
+    "lat": 4.642061,
+    "lng": -74.0817817
+  },
+  {
+    "id": "instituto-de-extension-e-investigacion",
+    "nombre": "Instituto de Extension e Investigacion",
+    "lat": 4.6383476,
+    "lng": -74.0825617
+  },
+  {
+    "id": "instituto-de-genetica",
+    "nombre": "Instituto de Genética",
+    "lat": 4.6429722,
+    "lng": -74.0829071
+  },
+  {
+    "id": "instituto-interamericano-de-cooperacion-para-la-agricultura",
+    "nombre": "Instituto Interamericano de Cooperación para la Agricultura",
+    "lat": 4.636562,
+    "lng": -74.0798367
+  },
+  {
+    "id": "invernadero-de-control-500f",
+    "nombre": "Invernadero de Control (500F)",
+    "lat": 4.6366106,
+    "lng": -74.0887767
+  },
+  {
+    "id": "invernadero-de-crecimiento-500i",
+    "nombre": "Invernadero de Crecimiento (500I)",
+    "lat": 4.6366078,
+    "lng": -74.0894691
+  },
+  {
+    "id": "invernadero-de-crecimiento-500j",
+    "nombre": "Invernadero de Crecimiento (500J)",
+    "lat": 4.6362941,
+    "lng": -74.0891165
+  },
+  {
+    "id": "invernadero-de-crecimiento-500k",
+    "nombre": "Invernadero de Crecimiento (500K)",
+    "lat": 4.6359816,
+    "lng": -74.0887655
+  },
+  {
+    "id": "invernadero-de-crecimiento-500m",
+    "nombre": "Invernadero de Crecimiento (500M)",
+    "lat": 4.6355595,
+    "lng": -74.089132
+  },
+  {
+    "id": "invernadero-de-crecimiento-500n",
+    "nombre": "Invernadero de Crecimiento (500N)",
+    "lat": 4.6357964,
+    "lng": -74.0902149
+  },
+  {
+    "id": "invernadero-de-crecimiento-500o",
+    "nombre": "Invernadero de Crecimiento (500O)",
+    "lat": 4.6354823,
+    "lng": -74.089856
+  },
+  {
+    "id": "invernadero-de-crecimiento-500p",
+    "nombre": "Invernadero de Crecimiento (500P)",
+    "lat": 4.6351579,
+    "lng": -74.0895034
+  },
+  {
+    "id": "invernadero-de-programacion-500h",
+    "nombre": "Invernadero de Programación (500H)",
+    "lat": 4.6367313,
+    "lng": -74.0884425
+  },
+  {
+    "id": "investigaciones-avicolas-561c",
+    "nombre": "Investigaciones Avícolas (561C)",
+    "lat": 4.6371444,
+    "lng": -74.088103
+  },
+  {
+    "id": "iparm",
+    "nombre": "IPARM",
+    "lat": 4.640839,
+    "lng": -74.0830768
+  },
+  {
+    "id": "jardin-un-905",
+    "nombre": "Jardin - UN (905)",
+    "lat": 4.6444909,
+    "lng": -74.0840628
+  },
+  {
+    "id": "laboratorio-de-control-de-calidad-500c",
+    "nombre": "Laboratorio de Control de Calidad (500C)",
+    "lat": 4.6356707,
+    "lng": -74.0877454
+  },
+  {
+    "id": "laboratorio-de-ensayos-hidraulicos",
+    "nombre": "Laboratorio de Ensayos Hidráulicos",
+    "lat": 4.6386585,
+    "lng": -74.0818275
+  },
+  {
+    "id": "laboratorio-de-hidraulica",
+    "nombre": "Laboratorio de Hidráulica",
+    "lat": 4.6381907,
+    "lng": -74.0813045
+  },
+  {
+    "id": "laboratorio-de-ingenieria-quimica",
+    "nombre": "Laboratorio de Ingeniería Química",
+    "lat": 4.638834,
+    "lng": -74.0831455
+  },
+  {
+    "id": "laboratorio-de-quimica-ingeominas-615",
+    "nombre": "Laboratorio de Química Ingeominas (615)",
+    "lat": 4.6393747,
+    "lng": -74.0809469
+  },
+  {
+    "id": "laboratorio-inceminacion-y-corral-equinos-505",
+    "nombre": "Laboratorio Inceminación y Corral Equinos (505)",
+    "lat": 4.6355607,
+    "lng": -74.0859425
+  },
+  {
+    "id": "laboratorio-maquinas",
+    "nombre": "laboratorio maquinas",
+    "lat": 4.6386787,
+    "lng": -74.0826123
+  },
+  {
+    "id": "laboratorio-patologia-clinica-y-corral-bovinos-506",
+    "nombre": "Laboratorio Patología Clínica y corral bovinos (506)",
+    "lat": 4.6362006,
+    "lng": -74.0861488
+  },
+  {
+    "id": "laboratorios-de-ingenieria",
+    "nombre": "Laboratorios de ingeniería",
+    "lat": 4.6390267,
+    "lng": -74.0825286
+  },
+  {
+    "id": "medicina-471",
+    "nombre": "Medicina (471)",
+    "lat": 4.6363894,
+    "lng": -74.0843581
+  },
+  {
+    "id": "museo-de-arquitectura-leopoldo-rother",
+    "nombre": "Museo de Arquitectura Leopoldo Rother",
+    "lat": 4.6339627,
+    "lng": -74.0831741
+  },
+  {
+    "id": "museo-de-arte-de-la-universidad-nacional-de-colombia",
+    "nombre": "Museo de Arte de la Universidad Nacional de Colombia",
+    "lat": 4.6345781,
+    "lng": -74.0808648
+  },
+  {
+    "id": "observatorio-astronomico-413",
+    "nombre": "Observatorio Astronómico (413)",
+    "lat": 4.6397162,
+    "lng": -74.0833268
+  },
+  {
+    "id": "odontologia-210",
+    "nombre": "Odontología (210)",
+    "lat": 4.6344895,
+    "lng": -74.0852278
+  },
+  {
+    "id": "oficina-de-produccion-animal-561a",
+    "nombre": "Oficina de Producción Animal (561A)",
+    "lat": 4.6375471,
+    "lng": -74.0872629
+  },
+  {
+    "id": "oficinas-docentes-508",
+    "nombre": "Oficinas docentes (508)",
+    "lat": 4.6364491,
+    "lng": -74.0861973
+  },
+  {
+    "id": "parque-automotor",
+    "nombre": "Parque Automotor",
+    "lat": 4.6416941,
+    "lng": -74.0834776
+  },
+  {
+    "id": "perrera-473",
+    "nombre": "Perrera (473)",
+    "lat": 4.6366062,
+    "lng": -74.0851579
+  },
+  {
+    "id": "planta-de-leches-y-vegetales-500a",
+    "nombre": "Planta de Leches y Vegetales (500A)",
+    "lat": 4.6359593,
+    "lng": -74.0880092
+  },
+  {
+    "id": "playa-de-modelos",
+    "nombre": "Playa de Modelos",
+    "lat": 4.638898,
+    "lng": -74.0817689
+  },
+  {
+    "id": "porteria-peatonal-calle-26",
+    "nombre": "Portería Peatonal Calle 26",
+    "lat": 4.6325097,
+    "lng": -74.0839562
+  },
+  {
+    "id": "posgrado-de-quimica-y-carbones",
+    "nombre": "Posgrado de Química y Carbones",
+    "lat": 4.6372863,
+    "lng": -74.0845863
+  },
+  {
+    "id": "posgrados-en-matematicas-y-fisica-405",
+    "nombre": "Posgrados en Matematicas y Fisica (405)",
+    "lat": 4.637781,
+    "lng": -74.0817121
+  },
+  {
+    "id": "posgrados-en-materiales-y-procesos-de-manofactura",
+    "nombre": "Posgrados en Materiales y Procesos de Manofactura",
+    "lat": 4.6391199,
+    "lng": -74.0821296
+  },
+  {
+    "id": "quimica",
+    "nombre": "Química",
+    "lat": 4.63755,
+    "lng": -74.0839297
+  },
+  {
+    "id": "restaurante-veterinaria",
+    "nombre": "Restaurante veterinaria",
+    "lat": 4.6367933,
+    "lng": -74.0856167
+  },
+  {
+    "id": "sala-de-sistemas",
+    "nombre": "Sala de Sistemas",
+    "lat": 4.6349717,
+    "lng": -74.0825198
+  },
+  {
+    "id": "sociologia",
+    "nombre": "Sociología",
+    "lat": 4.6345103,
+    "lng": -74.0839447
+  },
+  {
+    "id": "supermercado-500d",
+    "nombre": "Supermercado (500D)",
+    "lat": 4.6354551,
+    "lng": -74.0876365
+  },
+  {
+    "id": "taller-de-imprenta",
+    "nombre": "Taller de Imprenta",
+    "lat": 4.6407247,
+    "lng": -74.0835029
+  },
+  {
+    "id": "talleres-de-mantenimiento",
+    "nombre": "Talleres de Mantenimiento",
+    "lat": 4.6410512,
+    "lng": -74.0834099
+  },
+  {
+    "id": "talleres-y-aulas",
+    "nombre": "Talleres y aulas",
+    "lat": 4.6362371,
+    "lng": -74.0805635
+  },
+  {
+    "id": "talleres-y-vestieres-de-mantenimiento-438",
+    "nombre": "Talleres y Vestieres de Mantenimiento (438)",
+    "lat": 4.6420981,
+    "lng": -74.0833918
+  },
+  {
+    "id": "torre-de-enfermeria",
+    "nombre": "Torre de Enfermería",
+    "lat": 4.6351397,
+    "lng": -74.0822622
+  },
+  {
+    "id": "unibiblos-561g",
+    "nombre": "Unibiblos (561G)",
+    "lat": 4.6371573,
+    "lng": -74.0875164
+  },
+  {
+    "id": "unidad-de-apoyo-y-rescate-a-animales-salvages-504",
+    "nombre": "Unidad de Apoyo y Rescate a Animales Salvages (504)",
+    "lat": 4.6353503,
+    "lng": -74.0857042
+  },
+  {
+    "id": "veterinaria-decanatura-laboratorio-y-aulas-481",
+    "nombre": "Veterinaria - Decanatura, laboratorio y aulas (481)",
+    "lat": 4.6361024,
+    "lng": -74.0853517
+  },
+  {
+    "id": "yu-takeuchi-404",
+    "nombre": "Yu Takeuchi (404)",
+    "lat": 4.6378857,
+    "lng": -74.0822089
+  }
+]

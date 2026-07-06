@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <title>UNALGuessr</title>
+  </head>
+  <body>
+    <div id="app">
+      <div id="pano"></div>
+
+      <header id="topbar">
+        <span id="brand">UNAL<b>Guessr</b></span>
+        <span id="avatar-info" class="pill" title="Tu avatar">🐿️</span>
+        <span id="ronda-info" class="pill">Ronda –/5</span>
+        <span id="puntos-info" class="pill">0 pts</span>
+        <button id="music-btn" class="pill" title="Silenciar música">🔊</button>
+      </header>
+
+      <div id="status">Cargando…</div>
+
+      <div id="hud">
+        <div id="map"></div>
+        <div id="hud-botones">
+          <button id="undo-btn" title="Deshacer pin" disabled>↩</button>
+          <button id="guess-btn" disabled>Adivinar</button>
+        </div>
+      </div>
+
+      <div id="result" class="hidden">
+        <p id="result-texto"></p>
+        <button id="next-btn">Siguiente ronda ➜</button>
+      </div>
+
+      <div id="error" class="hidden">
+        <p id="error-texto"></p>
+        <button id="retry-btn">Reintentar</button>
+      </div>
+
+      <div id="final" class="hidden">
+        <div id="final-card">
+          <h1>Fin de la partida</h1>
+          <p id="final-total"></p>
+          <ol id="final-lista"></ol>
+          <div id="final-botones">
+            <button id="again-btn">Volver a jugar</button>
+            <button id="menu-btn">Volver al menú</button>
+          </div>
+        </div>
+      </div>
+
+      <div id="inicio">
+        <div id="inicio-card">
+          <h1 id="inicio-titulo">UNAL<b>Guessr</b></h1>
+          <p id="inicio-sub">Campus Universidad Nacional de Colombia — Bogotá</p>
+          <div id="inicio-botones">
+            <button id="start-btn" disabled>Cargando…</button>
+            <button id="avatar-btn">Elegir avatar</button>
+          </div>
+          <div id="avatar-panel" class="hidden">
+            <p id="avatar-titulo">Elige tu avatar</p>
+            <div id="avatar-opciones">
+              <button class="avatar-opcion" data-avatar="🐿️">
+                <span class="avatar-emoji">🐿️</span><span>Ardilla</span>
+              </button>
+              <button class="avatar-opcion" data-avatar="🦉">
+                <span class="avatar-emoji">🦉</span><span>Búho</span>
+              </button>
+              <button class="avatar-opcion" data-avatar="🐈">
+                <span class="avatar-emoji">🐈</span><span>Gato</span>
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>
